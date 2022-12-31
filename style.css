@@ -1,0 +1,23 @@
+.formulario-bootstrap{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(188, 188, 188);
+    padding: 50px;
+    margin-top: 40px;
+}
+.email-class{
+    margin-top: 30px;
+}
+.ajustando-text-area{
+    margin-top: 30px;
+}
+.butao-sucesses{
+    margin-top: 40px;
+    height: 50px;
+}
+.form-control{
+   height: 50px;
+}
+
+
+
